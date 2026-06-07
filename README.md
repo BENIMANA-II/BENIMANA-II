@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:flaubertbenimana@gmail.com">Email</a> ·
-  <a href="https://github.com/BENIMANA-II/portfolio">Portfolio</a>
+  <a href="https://flaubertdev.vercel.app">Portfolio</a>
 </p>
 
 ---
@@ -57,7 +57,7 @@ answer, and a steady diet of ML fundamentals and AI development for everything i
 ### How I work
 
 - Treat the design and the code as the same problem from two angles.
-- Write things down — that's why I keep a [digital garden](https://github.com/BENIMANA-II/portfolio).
+- Write things down — that's why I keep a [digital garden](https://flaubertdev.vercel.app).
 - Build, watch what people actually do, change one thing at a time.
 - Stay curious about adjacent disciplines — the best ideas usually come from the next field over.
 
